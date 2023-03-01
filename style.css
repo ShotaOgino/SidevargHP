@@ -376,7 +376,7 @@ header {
 .blog_contents p {
     text-align: right;
     margin: 50px 0; 
-    
+
 }
 
 /*-----------------------------------------------
@@ -413,7 +413,7 @@ header {
 
 #gallery p span {
     display: inline-block;
-    border-top: #3A5199 solid 2px;
+    /* border-top: #3A5199 solid 2px; */
     padding-top: 5px;
     margin-top: 5px;
 }
